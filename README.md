@@ -1,24 +1,7 @@
-# data_visualization
+# README
 
-## Project setup
-```
-npm install
-```
+* 使用Vue3+echars完成柱状图、折线图、饼状图、中国地图
+* 使用axios发送请求从后台拉去数据完成页面
+* 使用node+express+cors完成后端接口开发
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* 使用lib-flexible完成rem响应式布局
